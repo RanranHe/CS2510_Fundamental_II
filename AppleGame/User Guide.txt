@@ -1,0 +1,6 @@
+User Guide:
+Using left or right key to move the basket.
+DO NOT let apples fall to the ground.
+Try to avoid Doge, it will eat your apples.
+DO NOT let Doge eat all of your apples.
+Game complete when you collect 10 apples.

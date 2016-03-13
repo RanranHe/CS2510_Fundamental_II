@@ -1,0 +1,18 @@
+Design:
+in Apple class:
+it imports the image of Apple, 
+and control the randomness of apple type and the position of Apple when it appear. 
+It also lets apple move down and check if the apple fall on the ground or not.
+
+in Basket class:
+it imports the image of Basket, 
+and has the moveOnKey method which controls the movement of basket to left or right.
+
+in AppleGame class:
+it includes two fields: Apple and Basket that let the comparison between Apple and Basket more easily. 
+It has method caughtApple which determines whether the Basket caught the Apple or not.
+Method fall that determines what an apple should appear on the next tick.
+Method makeImage that draws the image of the world.
+Method onTick move the apple down.
+Method onKeyEvent that controls the key events of the world.
+And method WorldEnds that determine whether the game is over or not.
